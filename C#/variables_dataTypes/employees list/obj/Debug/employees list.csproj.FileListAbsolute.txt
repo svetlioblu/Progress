@@ -1,0 +1,5 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\employees list\bin\Debug\employees list.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\employees list\bin\Debug\employees list.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\employees list\bin\Debug\employees list.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\employees list\obj\Debug\employees list.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\employees list\obj\Debug\employees list.pdb

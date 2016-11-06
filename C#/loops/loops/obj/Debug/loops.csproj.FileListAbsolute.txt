@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\loops\bin\Debug\loops.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\loops\bin\Debug\loops.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\loops\bin\Debug\loops.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\loops\obj\Debug\loops.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\loops\obj\Debug\loops.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\loops\obj\Debug\loops.pdb

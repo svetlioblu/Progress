@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\BANK ACCOUNT DATA\bin\Debug\BANK ACCOUNT DATA.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\BANK ACCOUNT DATA\obj\Debug\BANK ACCOUNT DATA.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\BANK ACCOUNT DATA\bin\Debug\BANK ACCOUNT DATA.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\BANK ACCOUNT DATA\bin\Debug\BANK ACCOUNT DATA.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\BANK ACCOUNT DATA\obj\Debug\BANK ACCOUNT DATA.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\BANK ACCOUNT DATA\obj\Debug\BANK ACCOUNT DATA.pdb

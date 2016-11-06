@@ -1,0 +1,5 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\findSquareRoot\bin\Debug\findSquareRoot.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\findSquareRoot\bin\Debug\findSquareRoot.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\findSquareRoot\bin\Debug\findSquareRoot.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\findSquareRoot\obj\Debug\findSquareRoot.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\findSquareRoot\obj\Debug\findSquareRoot.pdb

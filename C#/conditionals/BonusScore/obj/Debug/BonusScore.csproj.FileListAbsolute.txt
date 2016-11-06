@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BonusScore\obj\Debug\BonusScore.pdb

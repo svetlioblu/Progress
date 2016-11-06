@@ -1,0 +1,5 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\CardSign\bin\Debug\CardSign.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\CardSign\bin\Debug\CardSign.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\CardSign\bin\Debug\CardSign.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\CardSign\obj\Debug\CardSign.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\CardSign\obj\Debug\CardSign.pdb

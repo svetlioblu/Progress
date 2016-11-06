@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Registration-form</title>
+    <link rel="stylesheet" href="custom.css">
+</head>
+
+<body>
+    <form action="#" method="POST">
+        <table cellpadding="0" cellspaceing="0" width="50%" border="1">
+            <tr>
+                <td align="right">Last Name</td>
+                <td colspan="3"><input type="text" name="lName" placeholder="Nakov"></td>
+            </tr>
+            <tr>
+                <td align="right">First Name</td>
+                <td colspan="3"><input type="text" name="fName" placeholder="Svetlin"></td>
+            </tr>
+            <tr>
+                <td align="right">Adress</td>
+                <td colspan="3"><textarea name="adress" id="" cols="10" rows="10"></textarea></td>
+            </tr>
+            <tr>
+                <td align="right">City</td>
+                <td><input type="text" name="City" placeholder="Kaspichan"></td>
+                <td>State</td>
+                <td><input type="text" name="state"></td>
+            </tr>
+            <tr>
+                <td>Zip/Postal Code</td>
+                <td colspan="3"><input type="text" name="zipCode"></td>
+            </tr>
+            <tr>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Country</td>
+                <td colspan="3"><select name="country" id="">
+                    <option value="">Bulgaria</option>
+                    </select></td>
+            </tr>
+            <tr id="number">
+                <td>Phone(country code,area code,number)</td>
+                <td colspan="3">(+<input type="text"> ) <input type="text">- <input type="text"></td>
+            </tr>
+            <tr>
+                <td>E-mail</td>
+                <td colspan="3"><input type="email" name="email" placeholder="Nakov@kaspichan.bg"></td>
+            </tr>
+            <tr>
+                <td>Birth date</td>
+                <td colspan="3" id="birthday"><label for="month">Month</label>
+                    <input type="text" id="month">
+                    <label for="day">Day</label>
+                    <input type="text" id="day">
+                    <label for="year">year (4 digit)</label>
+                    <input type="text" id="digit">
+                </td>
+            </tr>
+            <tr>
+                <td>Gender</td>
+                <td colspan="3"><select name="" id="">
+                    <option value="">Male</option>
+                    <option value="">Female</option>
+                    
+                    </select></td>
+            </tr>
+            <tr>
+                <td>Starting date</td>
+                <td colspan="3"><label for="date">Summer 2006</label><input type="radio" name="date" id="date">
+                    <label for="datetwo">Spring 2006</label>
+                    <input type="radio" name="date" id="datetwo">
+                </td>
+            </tr>
+            <tr>
+                <td>Comments/Questions</td>
+                <td colspan="3"><textarea name="" placeholder="Please send me more information about the loading." style="width:80%"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <input type="submit" value="Submit"> <input type="reset" value="Clear This Form">
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+
+</html>

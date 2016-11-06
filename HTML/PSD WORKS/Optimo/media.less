@@ -1,0 +1,73 @@
+.menu {
+    display: none
+}
+
+.burger {
+    display: block;
+    position: relative;
+    padding: 5px;
+    &:hover .menu {
+        display: block;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        z-index: 1;
+        background-color: rgba(0, 0, 0, 0.2);
+        border-radius: 8px;
+        -webkit-animation-name: pulse;
+        animation-name: pulse;
+        animation-duration: 0.5s;
+        .menuli {
+            margin: 0px;
+            padding: 0px;
+            a {
+                background-image: none;
+            }
+        }
+    }
+    .menu {
+        display: none
+    }
+}
+
+@-webkit-keyframes pulse {
+    0% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+    50% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+@keyframes pulse {
+    0% {
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+    }
+    50% {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+    100% {
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+.first .view_more button {
+    width: 100px;
+    height: 25px;
+}
+
+.table1 .td div {
+    display: none;
+}

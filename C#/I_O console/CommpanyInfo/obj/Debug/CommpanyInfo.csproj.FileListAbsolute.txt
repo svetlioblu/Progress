@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\CommpanyInfo\bin\Debug\CommpanyInfo.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\CommpanyInfo\bin\Debug\CommpanyInfo.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\CommpanyInfo\bin\Debug\CommpanyInfo.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\CommpanyInfo\obj\Debug\CommpanyInfo.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\CommpanyInfo\obj\Debug\CommpanyInfo.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\CommpanyInfo\obj\Debug\CommpanyInfo.csprojResolveAssemblyReference.cache

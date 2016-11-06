@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\ModifyBit\bin\Debug\ModifyBit.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\ModifyBit\obj\Debug\ModifyBit.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\ModifyBit\bin\Debug\ModifyBit.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\ModifyBit\bin\Debug\ModifyBit.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\ModifyBit\obj\Debug\ModifyBit.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\ModifyBit\obj\Debug\ModifyBit.pdb

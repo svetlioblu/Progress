@@ -1,0 +1,69 @@
+form table td {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+table tr>td {
+    width: 30%;
+    text-align: right;
+}
+
+td {
+    padding: 5px;
+    text-align: left !important;
+}
+
+table {
+    border-collapse: collapse;
+    width: 40%;
+    margin: 0 auto;
+}
+
+#number input:first-of-type {
+    width: 15%;
+}
+
+#number input:nth-of-type(2) {
+    width: 30%;
+}
+
+#number input:last-of-type {
+    width: 40%;
+}
+
+#birthday input {
+    width: 15%;
+}
+
+textarea {
+    resize: none;
+}
+
+table tr:last-of-type td {
+    background-color: #D1EDE1;
+    text-align: center !important;
+    padding: 8px;
+}
+
+input[type="submit"],
+input[type="reset"] {
+    padding: 4px;
+}
+
+table tr:first-of-type td:last-of-type input,
+table tr:nth-of-type(2) td:last-of-type input {
+    width: 85%;
+}
+
+textarea:first-of-type {
+    width: 83%;
+    height: 70px;
+}
+
+table tr:nth-of-type(4) td:last-of-type input {
+    width: 36px;
+}
+
+td:first-of-type {
+    text-align: right !important;
+}

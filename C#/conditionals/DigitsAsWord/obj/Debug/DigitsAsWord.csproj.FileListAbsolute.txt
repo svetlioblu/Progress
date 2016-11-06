@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\DigitsAsWord\bin\Debug\DigitsAsWord.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\DigitsAsWord\bin\Debug\DigitsAsWord.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\DigitsAsWord\bin\Debug\DigitsAsWord.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\DigitsAsWord\obj\Debug\DigitsAsWord.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\DigitsAsWord\obj\Debug\DigitsAsWord.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\DigitsAsWord\obj\Debug\DigitsAsWord.pdb

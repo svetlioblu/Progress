@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Moon Gravity\bin\Debug\Moon Gravity.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Moon Gravity\bin\Debug\Moon Gravity.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Moon Gravity\bin\Debug\Moon Gravity.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Moon Gravity\obj\Debug\Moon Gravity.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Moon Gravity\obj\Debug\Moon Gravity.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Moon Gravity\obj\Debug\Moon Gravity.pdb

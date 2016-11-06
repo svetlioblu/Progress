@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\PrintADeck\bin\Debug\PrintADeck.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\PrintADeck\bin\Debug\PrintADeck.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\PrintADeck\bin\Debug\PrintADeck.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\PrintADeck\obj\Debug\PrintADeck.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\PrintADeck\obj\Debug\PrintADeck.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\PrintADeck\obj\Debug\PrintADeck.pdb

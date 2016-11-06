@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\comparing floats\bin\Debug\comparing floats.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\comparing floats\bin\Debug\comparing floats.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\comparing floats\bin\Debug\comparing floats.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\comparing floats\obj\Debug\comparing floats.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\comparing floats\obj\Debug\comparing floats.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\comparing floats\obj\Debug\comparing floats.pdb

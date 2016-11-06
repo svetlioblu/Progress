@@ -1,0 +1,5 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\isosceles triangle\bin\Debug\isosceles triangle.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\isosceles triangle\bin\Debug\isosceles triangle.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\isosceles triangle\bin\Debug\isosceles triangle.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\isosceles triangle\obj\Debug\isosceles triangle.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\isosceles triangle\obj\Debug\isosceles triangle.pdb

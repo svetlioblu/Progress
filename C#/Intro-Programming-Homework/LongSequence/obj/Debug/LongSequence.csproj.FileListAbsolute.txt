@@ -1,0 +1,5 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.pdb

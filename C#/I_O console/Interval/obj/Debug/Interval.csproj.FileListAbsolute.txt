@@ -1,0 +1,5 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\Interval\bin\Debug\Interval.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\Interval\bin\Debug\Interval.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\Interval\bin\Debug\Interval.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\Interval\obj\Debug\Interval.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\Interval\obj\Debug\Interval.pdb

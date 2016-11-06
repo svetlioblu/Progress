@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\DoubleAndString\bin\Debug\DoubleAndString.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\DoubleAndString\obj\Debug\DoubleAndString.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\DoubleAndString\bin\Debug\DoubleAndString.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\DoubleAndString\bin\Debug\DoubleAndString.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\DoubleAndString\obj\Debug\DoubleAndString.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\DoubleAndString\obj\Debug\DoubleAndString.pdb

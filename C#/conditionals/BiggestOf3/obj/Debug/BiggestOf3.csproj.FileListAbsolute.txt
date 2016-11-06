@@ -1,0 +1,5 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BiggestOf3\bin\Debug\BiggestOf3.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BiggestOf3\bin\Debug\BiggestOf3.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BiggestOf3\bin\Debug\BiggestOf3.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BiggestOf3\obj\Debug\BiggestOf3.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BiggestOf3\obj\Debug\BiggestOf3.pdb

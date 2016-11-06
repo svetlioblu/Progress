@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.canvas {
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+.canvas th a {
+    font-size: 28px;
+    font-weight: 600;
+    color: #04AFF0;
+}
+
+.store {
+    border: 2px solid black;
+    width: 100%;
+}
+
+legend {
+    font-size: 20px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.items td span {
+    font-family: Comic Sans MS, Helvetica, sans-serif;
+    font-size: 17px
+}
+
+.items td {
+    text-align: center;
+}
+
+.canvas td:last-of-type {
+    vertical-align: middle;
+}
+
+.canvas td {
+    border: none;
+}
+
+fieldset {
+    border: 2px solid black;
+}
+
+form table td {
+    font-family: Comic Sans MS, Helvetica, sans-serif;
+    padding: 8px;
+    font-size: 20px
+}

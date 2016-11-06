@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\SortThreeNumbers\bin\Debug\SortThreeNumbers.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\SortThreeNumbers\obj\Debug\SortThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\SortThreeNumbers\obj\Debug\SortThreeNumbers.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\SortThreeNumbers\obj\Debug\SortThreeNumbers.pdb

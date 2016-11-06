@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\Circkle\bin\Debug\Circkle.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\Circkle\bin\Debug\Circkle.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\Circkle\bin\Debug\Circkle.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\Circkle\obj\Debug\Circkle.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\Circkle\obj\Debug\Circkle.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\Circkle\obj\Debug\Circkle.pdb

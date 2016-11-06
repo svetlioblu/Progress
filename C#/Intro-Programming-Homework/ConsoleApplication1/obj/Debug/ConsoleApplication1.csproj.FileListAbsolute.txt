@@ -1,0 +1,5 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

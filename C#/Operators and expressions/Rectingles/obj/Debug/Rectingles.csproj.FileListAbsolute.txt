@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Rectingles\bin\Debug\Rectingles.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Rectingles\bin\Debug\Rectingles.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Rectingles\bin\Debug\Rectingles.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Rectingles\obj\Debug\Rectingles.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Rectingles\obj\Debug\Rectingles.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Rectingles\obj\Debug\Rectingles.pdb

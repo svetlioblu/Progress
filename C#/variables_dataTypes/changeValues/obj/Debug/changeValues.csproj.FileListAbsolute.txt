@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\changeValues\bin\Debug\changeValues.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\changeValues\bin\Debug\changeValues.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\changeValues\bin\Debug\changeValues.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\changeValues\obj\Debug\changeValues.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\changeValues\obj\Debug\changeValues.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\changeValues\obj\Debug\changeValues.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\printNumbers\bin\Debug\printNumbers.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\printNumbers\bin\Debug\printNumbers.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\printNumbers\bin\Debug\printNumbers.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\printNumbers\obj\Debug\printNumbers.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Intro-Programming-Homework\printNumbers\obj\Debug\printNumbers.pdb

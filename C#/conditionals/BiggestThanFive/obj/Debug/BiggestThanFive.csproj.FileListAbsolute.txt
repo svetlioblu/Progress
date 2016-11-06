@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BiggestThanFive\bin\Debug\BiggestThanFive.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BiggestThanFive\bin\Debug\BiggestThanFive.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BiggestThanFive\bin\Debug\BiggestThanFive.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BiggestThanFive\obj\Debug\BiggestThanFive.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BiggestThanFive\obj\Debug\BiggestThanFive.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\BiggestThanFive\obj\Debug\BiggestThanFive.pdb

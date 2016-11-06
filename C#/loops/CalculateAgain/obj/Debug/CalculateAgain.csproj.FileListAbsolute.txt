@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\CalculateAgain\bin\Debug\CalculateAgain.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\CalculateAgain\bin\Debug\CalculateAgain.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\CalculateAgain\bin\Debug\CalculateAgain.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\CalculateAgain\obj\Debug\CalculateAgain.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\CalculateAgain\obj\Debug\CalculateAgain.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\CalculateAgain\obj\Debug\CalculateAgain.pdb

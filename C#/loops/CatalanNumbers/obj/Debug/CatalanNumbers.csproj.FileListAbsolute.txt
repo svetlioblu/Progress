@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\CatalanNumbers\bin\Debug\CatalanNumbers.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\CatalanNumbers\obj\Debug\CatalanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\CatalanNumbers\obj\Debug\CatalanNumbers.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\CatalanNumbers\obj\Debug\CatalanNumbers.pdb

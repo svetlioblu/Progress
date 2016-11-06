@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\I_O console\bin\Debug\I_O console.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\I_O console\bin\Debug\I_O console.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\I_O console\bin\Debug\I_O console.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\I_O console\obj\Debug\I_O console.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\I_O console\obj\Debug\I_O console.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\I_O console\I_O console\obj\Debug\I_O console.pdb

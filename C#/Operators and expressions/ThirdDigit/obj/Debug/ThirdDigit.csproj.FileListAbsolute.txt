@@ -1,0 +1,5 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\ThirdDigit\bin\Debug\ThirdDigit.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\ThirdDigit\bin\Debug\ThirdDigit.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\ThirdDigit\obj\Debug\ThirdDigit.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\ThirdDigit\obj\Debug\ThirdDigit.pdb

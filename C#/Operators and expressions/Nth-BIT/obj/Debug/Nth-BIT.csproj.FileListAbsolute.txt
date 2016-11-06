@@ -1,0 +1,5 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Nth-BIT\bin\Debug\Nth-BIT.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Nth-BIT\bin\Debug\Nth-BIT.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Nth-BIT\bin\Debug\Nth-BIT.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Nth-BIT\obj\Debug\Nth-BIT.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\Operators and expressions\Nth-BIT\obj\Debug\Nth-BIT.pdb

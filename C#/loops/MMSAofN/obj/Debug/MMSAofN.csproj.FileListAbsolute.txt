@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\MMSAofN\bin\Debug\MMSAofN.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\MMSAofN\bin\Debug\MMSAofN.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\MMSAofN\bin\Debug\MMSAofN.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\MMSAofN\obj\Debug\MMSAofN.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\MMSAofN\obj\Debug\MMSAofN.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\loops\MMSAofN\obj\Debug\MMSAofN.csprojResolveAssemblyReference.cache

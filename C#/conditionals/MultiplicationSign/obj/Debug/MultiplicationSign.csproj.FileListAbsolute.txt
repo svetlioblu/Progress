@@ -1,0 +1,5 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\conditionals\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

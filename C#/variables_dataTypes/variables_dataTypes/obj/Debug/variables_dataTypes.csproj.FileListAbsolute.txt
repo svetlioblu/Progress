@@ -1,0 +1,9 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\variables_dataTypes\bin\Debug\variables_dataTypes.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\variables_dataTypes\bin\Debug\variables_dataTypes.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\variables_dataTypes\bin\Debug\variables_dataTypes.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\variables_dataTypes\obj\Debug\variables_dataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\variables_dataTypes\obj\Debug\variables_dataTypes.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HOMEWORK 1\variables_dataTypes\variables_dataTypes\obj\Debug\variables_dataTypes.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\variables_dataTypes\variables_dataTypes\bin\Debug\variables_dataTypes.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\variables_dataTypes\variables_dataTypes\obj\Debug\variables_dataTypes.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\HOMEWORK 1\variables_dataTypes\variables_dataTypes\obj\Debug\variables_dataTypes.pdb
