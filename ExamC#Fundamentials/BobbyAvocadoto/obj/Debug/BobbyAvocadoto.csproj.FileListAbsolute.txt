@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\BobbyAvocadoto\bin\Debug\BobbyAvocadoto.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\BobbyAvocadoto\bin\Debug\BobbyAvocadoto.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\BobbyAvocadoto\bin\Debug\BobbyAvocadoto.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\BobbyAvocadoto\obj\Debug\BobbyAvocadoto.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\BobbyAvocadoto\obj\Debug\BobbyAvocadoto.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\BobbyAvocadoto\obj\Debug\BobbyAvocadoto.pdb

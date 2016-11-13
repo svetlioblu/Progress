@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\PagesInDigits\bin\Debug\PagesInDigits.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\PagesInDigits\bin\Debug\PagesInDigits.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\PagesInDigits\bin\Debug\PagesInDigits.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\PagesInDigits\obj\Debug\PagesInDigits.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\PagesInDigits\obj\Debug\PagesInDigits.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\PagesInDigits\obj\Debug\PagesInDigits.pdb

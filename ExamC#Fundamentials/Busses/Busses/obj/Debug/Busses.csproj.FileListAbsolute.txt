@@ -1,0 +1,6 @@
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\Busses\Busses\bin\Debug\Busses.exe.config
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\Busses\Busses\obj\Debug\Busses.csprojResolveAssemblyReference.cache
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\Busses\Busses\bin\Debug\Busses.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\Busses\Busses\bin\Debug\Busses.pdb
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\Busses\Busses\obj\Debug\Busses.exe
+C:\Users\Svetli\Desktop\PROGRESS\C#\HomeWork\ExamC#Fundamentials\Busses\Busses\obj\Debug\Busses.pdb
